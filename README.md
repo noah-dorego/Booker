@@ -1,6 +1,6 @@
 # Booker
 
-Developed by [Noah do Régo](https://github.com/NoahdoRegoUO) and [Alex Clements](https://github.com/alexclements74)
+Developed by [Noah do Régo](https://github.com/noah-dorego) and [Alex Clements](https://github.com/alexclements74)
 
 ## Description
 
